@@ -1,6 +1,5 @@
 <p align="center">
-<img 
-src=" assets/Capturar.png"
+<img src=" assets/Capturar.png"
     width="300"
 />
 </p>
