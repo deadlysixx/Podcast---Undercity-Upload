@@ -1,5 +1,6 @@
 <p align="center">
 <img src="./assets/Capturar.PNG" 
+    width="300"
     />
 </p>
 
