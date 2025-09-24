@@ -1,7 +1,6 @@
 <p align="center">
-<img src=" assets/Capturar.png"
-    width="300"
-/>
+<img src="./assets/Capturar.PNG" 
+    />
 </p>
 
 <p align="center">
